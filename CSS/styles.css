@@ -1,3 +1,9 @@
+
+::selection {
+  background-color: #66BFBF;
+  color: white;
+}
+
 /*****************************HTML ELEMENTS***************/
 a {
   color: #11999E;
